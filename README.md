@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3lnbmJ0ZThnNzB1Y2RmZGFwaHdsN2RkdXB6emQwY3pmOGI5b3NhOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7TKPdUkkbww65Uvm/giphy.gif"  />
 
 ###
 
@@ -44,6 +44,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/maurodesouza/maurodesouza/blob/output/github-contribution-grid-snake.svg)
 
 ###
+
