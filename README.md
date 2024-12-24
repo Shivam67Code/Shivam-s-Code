@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm Shivam Karn</h1>
-<h3 align="center">A passionate WebDev learner from A Very Beautifully Peaceful country "Nepal".</h3>
+<h3 align="center">A passionate WebDev learner from A Very Beautifully Peaceful country "Nepal"🕊️.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam67code&label=Profile%20views&color=0e75b6&style=flat" alt="shivam67code" /> </p>
 
